@@ -100,9 +100,9 @@
 
 ## 📊 GitHub 状态
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taering365&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taering365&show_icons=true&theme=dark&cache_seconds=7200)](https://github.com/Taering365)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taering365&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taering365&layout=compact&theme=dark&langs_count=8&cache_seconds=7200)](https://github.com/Taering365)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taering365&theme=github-dark)
 
