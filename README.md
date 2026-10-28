@@ -26,6 +26,21 @@
 
 ---
 
+## 📱 微信公众号 · 无双的博客
+
+分享 FreeSWITCH、呼叫中心与 AI 语音系统的技术实践，欢迎微信扫码关注。
+
+<p align="center">
+  <img src="./wechat-official-account.png" alt="无双的博客微信公众号二维码" width="680">
+</p>
+
+<p align="center">
+  微信扫码关注，也可以在微信中搜索「无双的博客」
+</p>
+
+---
+
+
 ## 🔥 项目
 
 ### 🎙️ freeswitch_stream_mod
